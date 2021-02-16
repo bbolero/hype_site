@@ -1,0 +1,168 @@
+body {
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Reggae One', cursive;
+}
+
+.top-container {
+  background-color: #ccf2f4;
+  position: relative;
+  padding-top: 100px;
+  font-family: 'Brygada 1918', serif;
+  font-size: 2.5rem
+}
+
+h1 {
+  margin: 2.6rem auto 0 auto;
+  font-size: 5rem;
+  font-family: 'Reggae One', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+h4{
+  margin: 0 auto 0 auto;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h2 {
+  color: #66bfbf;
+  font-family: 'Reggae One', cursive;
+  font-size: 200%;
+  text-align: center;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Brygada 1918', serif;
+  font-size: 180%;
+}
+
+hr {
+  color: gray;
+  border-top: dotted 7px;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  max-width: 3%;
+  margin: 50px auto 50px auto;
+}
+
+p {
+  font-family: 'Newsreader', serif;
+  font-size: 120%;
+  margin: auto;
+  line-height: 1.8;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+}
+
+.profile-pic{
+  margin-top: 30px;
+  border-radius: 50%;
+}
+
+.skill1{
+  width: 25%;
+  float: left;
+  height: auto;
+  margin: 30px;
+  border-radius: 50%;
+}
+
+.skill2{
+  width: 25%;
+  float: right;
+  height: auto;
+  margin: 0 30px 30px 30px;
+  border-radius: 50%;
+}
+
+.small{
+  font-size: 140%;
+}
+
+.topcloud{
+  position: absolute;
+  top: 50px;
+  right: 500px;
+}
+
+.botcloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.emailbutton {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Trebuchet MS;
+   font-size: 31px;
+   font-weight: 100;
+   margin: 30px auto 40px auto;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.emailbutton:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.bottom-container{
+  background-color: #ccf2f4;
+  padding: 50px;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Brygada 1918', serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #66BFBF;
+  text-decoration: underline;
+}
+
+.copyright{
+  margin: 30px auto 20px auto;
+  color: gray;
+}
